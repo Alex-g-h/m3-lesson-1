@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m3-lesson-1/static/css/main.9ff23e91.css",
+    "main.js": "/m3-lesson-1/static/js/main.78d23437.js",
+    "index.html": "/m3-lesson-1/index.html",
+    "main.9ff23e91.css.map": "/m3-lesson-1/static/css/main.9ff23e91.css.map",
+    "main.78d23437.js.map": "/m3-lesson-1/static/js/main.78d23437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff23e91.css",
+    "static/js/main.78d23437.js"
+  ]
+}
